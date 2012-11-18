@@ -1,0 +1,12 @@
+# Compiled Python #
+###################
+*.pyc
+
+# Stuff with personal information #
+###################################
+*.cfg
+
+# Old versions #
+################
+*.*~
+sfwporn-flair.tar.gz
