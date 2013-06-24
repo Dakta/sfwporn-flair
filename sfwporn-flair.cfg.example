@@ -1,0 +1,15 @@
+[reddit]
+user_agent = Bot name; should also include your reddit account
+username = reddit username
+password = reddit password
+
+[subreddit]
+ignore_subreddit = subreddit to ignore
+last_check = reference timnestamp of last complete run, ex: 2013-06-24 14:05:02
+
+[flair]
+css_class = flair class to apply to user
+
+[logging]
+level = WARN
+
