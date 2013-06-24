@@ -10,8 +10,8 @@ flair.
 ## Configuration
 
 Example config file is included, just update, remove ".example" and you're set.
-For regular usage, suggest cron. To work with virtualenv, use `/path/to/virtualenv
-/bin/python sfwporn-flair.py`.
+For regular usage, suggest cron. To work with virtualenv, use `/path/to/virtualenv/bin/python
+sfwporn-flair.py`.
 
 ## Depends
 
